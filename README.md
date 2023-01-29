@@ -7,13 +7,15 @@
 -    linkedin:https://www.linkedin.com/in/laya-godfrey/
 
 # Skills
--SQL
-HTML
-CSS
-Boostrap
-Django
-Python
-JavaScript
+- SQL
+- HTML
+- CSS
+- Boostrap
+- Django
+- Python
+- JavaScript
+- Django_restframework
+
 
 
 <!---
