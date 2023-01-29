@@ -8,12 +8,12 @@
 
 # Skills
 -SQL
--HTML
--CSS
--Boostrap
--Django
--Python
--JavaScript
+HTML
+CSS
+Boostrap
+Django
+Python
+JavaScript
 
 
 <!---
