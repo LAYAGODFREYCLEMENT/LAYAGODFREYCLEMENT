@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LAYAGODFREYCLEMENT
 - 👀 I’m interested in Software development
-- 🌱 I’m currently  looking for a work place.
+- 🌱 I’m currently  looking ......
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -
 -    gmail:layagodfrey12@gmail.com
